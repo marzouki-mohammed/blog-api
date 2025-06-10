@@ -67,20 +67,3 @@ src/              # Code source principal (app.js, routes, etc.)
 
 Voir le fichier `.env.example` pour la liste complète des variables nécessaires.
 
-## Contribution
-
-Les contributions sont les bienvenues !
-
-1. Forkez le projet
-2. Créez votre branche (`git checkout -b feature/ma-feature`)
-3. Commitez vos changements (`git commit -am 'Ajout d'une nouvelle fonctionnalité'`)
-4. Poussez la branche (`git push origin feature/ma-feature`)
-5. Ouvrez une Pull Request
-
-## Licence
-
-Ce projet est sous licence MIT.
-
----
-
-*Pour toute question, contactez [votre email ou GitHub].*
