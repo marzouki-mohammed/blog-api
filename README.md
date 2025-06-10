@@ -12,7 +12,7 @@ Bienvenue sur le projet **Blog API Sécurisé** ! Ce projet est une API RESTful 
 
 ## Architecture du projet
 
-![Architecture du projet](https://raw.githubusercontent.com/github/explore/main/topics/api/api.png)
+![Architecture du projet](Architecture.png)
 
 ## Démarrage rapide
 
@@ -39,9 +39,6 @@ Bienvenue sur le projet **Blog API Sécurisé** ! Ce projet est une API RESTful 
    npm start
    ```
 
-## Exemple de flux d'authentification Google
-
-![Flux Google OAuth2](https://developers.google.com/identity/images/sign-in/identity-sign-in-flow.png)
 
 ## Exemple de requête API
 
